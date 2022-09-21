@@ -1,0 +1,17 @@
+{
+  "name": "dance_academy",
+  "version": "1.0.0",
+  "description": "This is a dance academy website using pug",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sudarshan Pansare",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1",
+    "nodemon": "^2.0.20",
+    "pug": "^3.0.2"
+  }
+}
